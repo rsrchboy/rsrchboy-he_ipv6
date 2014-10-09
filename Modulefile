@@ -1,0 +1,10 @@
+name          'rsrchboy-he_ipv6'
+version       '0.1.0'
+source        'https://github.com/RsrchBoy/rsrchboy-he_ipv6.git'
+author        'rsrchboy'
+license       'LGPL v2.1'
+summary       'Configure an ipv6 tunnel from http://tunnelbroker.net'
+description   ''
+project_page  'https://github.com/RsrchBoy/rsrchboy-he_ipv6'
+
+dependency 'puppetlabs/stdlib'
